@@ -5,5 +5,5 @@ Además, tengo experiencia en frontend con HTML, CSS, JavaScript y React.
 Estoy siempre en busca de nuevas oportunidades y colaboraciones emocionantes.
 
 ## Actualmente estoy aprendiendo...
-* Ingles (My english level is A2)
+* Ingles (My English level is A2)
 * Arquitectura de software.
